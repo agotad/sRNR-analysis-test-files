@@ -36,7 +36,7 @@
 
 7. **Pasirinkite antrą analizės žingsnį.**
 
-8. **Įkelkite pirmą sugeneruotą `.csv` failą į `Upload APERO Group 1 CSVs` ir suteikite jam pavadinimą, tada įkelkite antrą sugeneruotą `.csv` failą į `Upload APERO Group 2 CSVs` ir taip pat atitinkamai jį pavadinkite. Taip pat įkelkite:
+8. **Įkelkite pirmą sugeneruotą `.csv` failą į `Upload APERO Group 1 CSVs` ir suteikite jam pavadinimą, tada įkelkite antrą sugeneruotą `.csv` failą į `Upload APERO Group 2 CSVs` ir taip pat atitinkamai jį pavadinkite. Taip pat įkelkite**:
    - **PTT failas**: `NC_009004.1.ptt`
    - **FASTA failas**: `NC_009004.1.fasta`
    - **Papildomi FASTA failai BLAST analizei**: `Lactococcus cremoris strain 4B0 chromosome, complete genome.fasta`, `Lactococcus cremoris strain UL033 chromosome, complete genome.fasta`, `Lactococcus lactis subsp. cremoris MG1363, complete genome.fasta`
