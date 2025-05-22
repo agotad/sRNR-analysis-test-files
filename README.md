@@ -17,7 +17,7 @@
 
 ## 🚀 Naudojimo instrukcija
 
-1. **Atidarykite aplikaciją** naršyklėje per šią nuorodą: [ip adresas]
+1. **Atidarykite aplikaciją** naršyklėje per šią nuorodą: [https://b028-78-56-247-175.ngrok-free.app]
 
 2. **Analizės žingsniai**:
    - **APERO analizė (First step)** – jei norite pradėti nuo BAM failų analizės.
