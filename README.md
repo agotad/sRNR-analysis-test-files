@@ -58,7 +58,7 @@
 ## 📝 Pastabos
 
 - Visi failai yra paruošti taip, kad juos būtų galima tiesiogiai įkelti į aplikaciją be papildomo apdorojimo.
-- Aplikacija veikia tik tuo metu, kai ji yra paleista ... kompiuteryje ir prieinama per pateiktą nuorodą.
+- Aplikacija veikia tik tuo metu, kai ji aktyviai paleista autorės kompiuteryje. Kadangi aplikacija paleidžiama laikiną serverį, jos prieiga gali būti nutrūkusi. Tokiu atveju galima susisiekti el. paštu [agota.dudyte@gmc.stud.vu.lt], kad būtų suteikta nauja nuoroda.
 
 ## 📄 Licencija
 
